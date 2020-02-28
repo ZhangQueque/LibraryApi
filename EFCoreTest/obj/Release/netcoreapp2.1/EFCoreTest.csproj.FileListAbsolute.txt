@@ -1,0 +1,15 @@
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\nlog.config
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\EFCoreTest.deps.json
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\EFCoreTest.runtimeconfig.json
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\EFCoreTest.runtimeconfig.dev.json
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\EFCoreTest.dll
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\bin\Release\netcoreapp2.1\EFCoreTest.pdb
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.csprojAssemblyReference.cache
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.RazorAssemblyInfo.cache
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.RazorAssemblyInfo.cs
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.AssemblyInfoInputs.cache
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.AssemblyInfo.cs
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.RazorTargetAssemblyInfo.cache
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.dll
+C:\Users\炸天张缺缺\Desktop\EFCoreTest\EFCoreTest\obj\Release\netcoreapp2.1\EFCoreTest.pdb

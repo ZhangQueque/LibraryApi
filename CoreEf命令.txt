@@ -1,0 +1,10 @@
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -v 2.1.1
+
+//扩展linq
+System.Linq.Dynamic.Core 1.0.20
+//日志
+NLog.Web.AspNetCore
+//映射
+AutoMapper
+//版本
+Microsoft.AspNetCore.Mvc.Versioning

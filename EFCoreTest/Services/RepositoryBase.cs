@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace EFCoreTest.Services
-{
+{ 
     /// <summary>
     /// 通用的仓储类
     /// </summary>

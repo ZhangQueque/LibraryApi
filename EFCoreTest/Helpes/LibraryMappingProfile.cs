@@ -12,7 +12,7 @@ namespace EFCoreTest.Helpes
     /// 映射配置文件
     /// </summary>
     public class LibraryMappingProfile : Profile
-    {
+    { 
         public LibraryMappingProfile()
         {
             CreateMap<Book, BookDto>();

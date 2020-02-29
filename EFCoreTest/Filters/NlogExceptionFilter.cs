@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace EFCoreTest.Filters
 {
+    //异常过滤器写日志
     public class NlogExceptionFilter : IExceptionFilter
     {
         private readonly IHostingEnvironment env;

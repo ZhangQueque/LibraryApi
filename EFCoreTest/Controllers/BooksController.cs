@@ -87,7 +87,7 @@ namespace EFCoreTest.Controllers
             }
             return NoContent();
         }
-        [HttpPut("{bookId}")]
+        [HttpPut("{bookId}")] 
         public async Task<IActionResult> UpdateBookAsync(int authorId, int bookId, UpdateBookDto bookDto)
         {
             var book = await repositoryWrapper.Book.GetBookAsync(authorId, bookId);

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace EFCoreTest.Attributes
 {
     /// <summary>
-    /// 方法过滤器
+    ///  作者过滤器（用于bookControll）
     /// </summary>
     public class IsAuthorExistAttribute : ActionFilterAttribute
     {

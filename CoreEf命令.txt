@@ -1,10 +1,15 @@
+EFcore瀹夎
 Install-Package Microsoft.EntityFrameworkCore.SqlServer -v 2.1.1
 
-//扩展linq
+绗笁鏂筶inq鎵╁睍
 System.Linq.Dynamic.Core 1.0.20
-//日志
+鏃ュ織Nolg
 NLog.Web.AspNetCore
-//映射
-AutoMapper
-//版本
+鏄犲皠Dto
+AutoMapper.Extensions.Microsoft.DependencyInjection
+鐗堟湰
 Microsoft.AspNetCore.Mvc.Versioning
+API鏂囨。
+Swashbuckle.AspNetCore
+璺ㄥ煙
+Microsoft.AspNetCore.Cors

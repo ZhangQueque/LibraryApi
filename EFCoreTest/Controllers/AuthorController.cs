@@ -216,7 +216,11 @@ namespace EFCoreTest.Controllers
             author.Links.Add(new Link(HttpMethods.Get, "get author books", Url.Link(nameof(BooksController.GetBooksAsync), new { authorId = author.Id })));
             return author;
         }
-
+         /// <summary>
+        /// 超文本驱动（实现HATEOAS 超媒体作为应用状态的引擎）
+        /// </summary>
+        /// <param name="author"></param>
+        /// <returns></returns>
         private ResponseColloctionResource<AuthorDto> CreateLinksForAuthors(ResponseColloctionResource<AuthorDto> authors, dynamic pageData = null)
         {
             authors.Links.Add(new Link(HttpMethods.Post, "create a author", Url.Link(nameof(CreateAuthorAsync), null)));

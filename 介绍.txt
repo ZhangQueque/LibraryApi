@@ -1,0 +1,7 @@
+##图书馆里系统API开发
+ASP.NET Core下的RESTful API的开发。
+资源操作，EF Core访问数据库，仓储模式的实现，高级查询和日志。
+HTTP缓冲，缓冲中间件，内存缓冲的应用
+HATEOAS超文本驱动，成熟的API开发
+API文档
+部署IIS

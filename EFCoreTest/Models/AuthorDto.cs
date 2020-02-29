@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace EFCoreTest.Models
 {
     public class AuthorDto : ReponseReSource
-    {
+    { 
         public int Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }

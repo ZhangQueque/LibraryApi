@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EFCoreTest.Entities
 {
-    public class Author
+    public class Author 
     {
         [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }

@@ -172,11 +172,11 @@ namespace EFCoreTest.Controllers
                 return NotFound();
             }
             repositoryWrapper.Author.Delete(author);
-            if (await repositoryWrapper.Author.SaveAsync())
+            if (!await repositoryWrapper.Author.SaveAsync())
             {
-                return NoContent();
+                throw  new  Exception("删除资源失败")
             }
-            return NotFound();
+           return NoContent();
         }
 
         /// <summary>
